@@ -7,7 +7,7 @@ Full Stack Developer
 I am a fullstack developer!
 
 * 🌍  I'm based in Gorakhpur, Uttar Pradesh
-* 🖥️  See my portfolio at [MyPortfolio](http://gaurav4223.github.io/gaurav/)
+* 🖥️  See my portfolio at [MyPortfolio](http://gaurav4223.github.io/Gauravportfolio/)
 * ✉️  You can contact me at [kumargaurav17200@gmail.com](mailto:kumargaurav17200@gmail.com)
 * 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
